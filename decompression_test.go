@@ -13,7 +13,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"github.com/xi2/xz"
+	"github.com/ulikunitz/xz"
 )
 
 func Test_decompressTarXz(t *testing.T) {
